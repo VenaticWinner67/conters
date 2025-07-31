@@ -306,3 +306,9 @@
 [05:04:52] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 27624550-5762-38db-a0a7-5ccd77095ef1
 [05:04:54] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 27624550-5762-38db-a0a7-5ccd77095ef1
 [05:04:54] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player VenaticWinner67 (27624550-5762-38db-a0a7-5ccd77095ef1) successfully connected to voice chat
+[05:09:57] [Server thread/INFO]: LastSamurai[/100.86.153.58:51917] logged in with entity id 5918 at (544.3868533156096, 87.0, 1992.7168036822484)
+[05:09:57] [Server thread/INFO]: Loading config from file...
+[05:09:57] [Server thread/INFO]: LastSamurai joined the game
+[05:09:57] [Server thread/INFO]: LastSamurai lost connection: This server requires Cardinal Components API (unhandled packet: cardinal-components:entity_sync)
+[05:09:57] [Server thread/INFO]: LastSamurai left the game
+[05:09:57] [Server thread/INFO]: [voicechat] Disconnecting client LastSamurai
