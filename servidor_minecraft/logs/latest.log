@@ -261,3 +261,48 @@
 [04:56:14] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 27624550-5762-38db-a0a7-5ccd77095ef1
 [04:56:28] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 27624550-5762-38db-a0a7-5ccd77095ef1
 [04:56:28] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player VenaticWinner67 (27624550-5762-38db-a0a7-5ccd77095ef1) successfully connected to voice chat
+[05:00:52] [Server thread/INFO]: Incorrect argument for command
+[05:00:52] [Server thread/INFO]: ...icWinner67 <--[HERE]
+[05:01:14] [Server thread/INFO]: Made VenaticWinner67 a server operator
+[05:02:24] [Server thread/INFO]: LastSamurai[/100.86.153.58:51864] logged in with entity id 2855 at (544.3868533156096, 87.0, 1992.7168036822484)
+[05:02:24] [Server thread/INFO]: Loading config from file...
+[05:02:24] [Server thread/INFO]: LastSamurai joined the game
+[05:02:24] [Server thread/INFO]: LastSamurai lost connection: This server requires Cardinal Components API (unhandled packet: cardinal-components:entity_sync)
+[05:02:24] [Server thread/INFO]: LastSamurai left the game
+[05:02:24] [Server thread/INFO]: [voicechat] Disconnecting client LastSamurai
+[05:02:41] [Server thread/INFO]: LastSamurai[/100.86.153.58:51865] logged in with entity id 2892 at (544.3868533156096, 87.0, 1992.7168036822484)
+[05:02:41] [Server thread/INFO]: Loading config from file...
+[05:02:41] [Server thread/INFO]: LastSamurai joined the game
+[05:02:41] [Server thread/INFO]: LastSamurai lost connection: This server requires Cardinal Components API (unhandled packet: cardinal-components:entity_sync)
+[05:02:41] [Server thread/INFO]: LastSamurai left the game
+[05:02:41] [Server thread/INFO]: [voicechat] Disconnecting client LastSamurai
+[05:02:53] [Server thread/INFO]: LastSamurai[/100.86.153.58:51873] logged in with entity id 2903 at (544.3868533156096, 87.0, 1992.7168036822484)
+[05:02:53] [Server thread/INFO]: Loading config from file...
+[05:02:53] [Server thread/INFO]: LastSamurai joined the game
+[05:02:53] [Server thread/INFO]: LastSamurai lost connection: This server requires Cardinal Components API (unhandled packet: cardinal-components:entity_sync)
+[05:02:53] [Server thread/INFO]: LastSamurai left the game
+[05:02:53] [Server thread/INFO]: [voicechat] Disconnecting client LastSamurai
+[05:03:25] [Server thread/INFO]: LastSamurai[/100.86.153.58:51874] logged in with entity id 3032 at (544.3868533156096, 87.0, 1992.7168036822484)
+[05:03:25] [Server thread/INFO]: Loading config from file...
+[05:03:25] [Server thread/INFO]: LastSamurai joined the game
+[05:03:25] [Server thread/INFO]: LastSamurai lost connection: This server requires Cardinal Components API (unhandled packet: cardinal-components:entity_sync)
+[05:03:25] [Server thread/INFO]: LastSamurai left the game
+[05:03:25] [Server thread/INFO]: [voicechat] Disconnecting client LastSamurai
+[05:04:11] [Server thread/INFO]: VenaticWinner67 lost connection: Disconnected
+[05:04:11] [Server thread/INFO]: VenaticWinner67 left the game
+[05:04:11] [Server thread/INFO]: [voicechat] Disconnecting client VenaticWinner67
+[05:04:19] [Server thread/INFO]: LastSamurai[/100.86.153.58:51884] logged in with entity id 3352 at (544.3868533156096, 87.0, 1992.7168036822484)
+[05:04:19] [Server thread/INFO]: Loading config from file...
+[05:04:19] [Server thread/INFO]: LastSamurai joined the game
+[05:04:19] [Server thread/INFO]: LastSamurai lost connection: This server requires Cardinal Components API (unhandled packet: cardinal-components:entity_sync)
+[05:04:19] [Server thread/INFO]: LastSamurai left the game
+[05:04:19] [Server thread/INFO]: [voicechat] Disconnecting client LastSamurai
+[05:04:20] [Server thread/WARN]: handleDisconnection() called twice
+[05:04:47] [Server thread/INFO]: VenaticWinner67[/100.76.188.73:59191] logged in with entity id 3410 at (10.36745179585208, 79.0, -29.809711384872834)
+[05:04:47] [Server thread/INFO]: Loading config from file...
+[05:04:47] [Server thread/INFO]: VenaticWinner67 joined the game
+[05:04:48] [Server thread/INFO]: [voicechat] Received secret request of VenaticWinner67 (18)
+[05:04:48] [Server thread/INFO]: [voicechat] Sent secret to VenaticWinner67
+[05:04:52] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 27624550-5762-38db-a0a7-5ccd77095ef1
+[05:04:54] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 27624550-5762-38db-a0a7-5ccd77095ef1
+[05:04:54] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player VenaticWinner67 (27624550-5762-38db-a0a7-5ccd77095ef1) successfully connected to voice chat
