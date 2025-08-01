@@ -299,3 +299,39 @@
 [05:28:32] [spark-worker-pool-1-thread-1/INFO]: [⚡] Tick #1957 included GC lasting 29 ms. (type = Young Gen)
 [05:28:33] [spark-worker-pool-1-thread-2/INFO]: [⚡] Tick #1962 included GC lasting 9 ms. (type = end of concurrent GC pause)
 [05:28:33] [spark-worker-pool-1-thread-4/INFO]: [⚡] Tick #1964 included GC lasting 0 ms. (type = end of concurrent GC pause)
+[05:29:07] [spark-worker-pool-1-thread-3/INFO]: [⚡] Tick #2655 included GC lasting 20 ms. (type = Young Gen)
+[05:29:41] [spark-worker-pool-1-thread-1/INFO]: [⚡] Tick #3331 included GC lasting 15 ms. (type = Young Gen)
+[05:30:14] [spark-worker-pool-1-thread-2/INFO]: [⚡] Tick #3997 included GC lasting 11 ms. (type = Young Gen)
+[05:30:15] [spark-worker-pool-1-thread-4/INFO]: [⚡] Tick #4002 included GC lasting 11 ms. (type = end of concurrent GC pause)
+[05:30:15] [spark-worker-pool-1-thread-3/INFO]: [⚡] Tick #4004 included GC lasting 0 ms. (type = end of concurrent GC pause)
+[05:30:49] [spark-worker-pool-1-thread-1/INFO]: [⚡] Tick #4682 included GC lasting 12 ms. (type = Young Gen)
+[05:31:23] [spark-worker-pool-1-thread-2/INFO]: [⚡] Tick #5377 included GC lasting 13 ms. (type = Young Gen)
+[05:31:58] [spark-worker-pool-1-thread-4/INFO]: [⚡] Tick #6060 included GC lasting 11 ms. (type = Young Gen)
+[05:31:58] [spark-worker-pool-1-thread-3/INFO]: [⚡] Tick #6066 included GC lasting 10 ms. (type = end of concurrent GC pause)
+[05:31:58] [spark-worker-pool-1-thread-1/INFO]: [⚡] Tick #6068 included GC lasting 0 ms. (type = end of concurrent GC pause)
+[05:32:14] [Server thread/INFO]: LastSamurai[/100.86.153.58:63306] logged in with entity id 8092 at (544.3868533156096, 87.0, 1992.7168036822484)
+[05:32:14] [Server thread/INFO]: Loading config from file...
+[05:32:14] [Server thread/INFO]: LastSamurai joined the game
+[05:32:14] [spark-worker-pool-1-thread-2/INFO]: [⚡] Tick #6389 lasted 266.21 ms. (432.42% increase from avg)
+[05:32:14] [Server thread/INFO]: LastSamurai lost connection: This server requires Cardinal Components API (unhandled packet: cardinal-components:entity_sync)
+[05:32:14] [Server thread/INFO]: LastSamurai left the game
+[05:32:14] [Server thread/INFO]: [voicechat] Disconnecting client LastSamurai
+[05:32:32] [spark-worker-pool-1-thread-4/INFO]: [⚡] Tick #6746 included GC lasting 13 ms. (type = Young Gen)
+[05:33:07] [spark-worker-pool-1-thread-3/INFO]: [⚡] Tick #7450 included GC lasting 13 ms. (type = Young Gen)
+[05:33:08] [Server thread/INFO]: LastSamurai[/100.86.153.58:63318] logged in with entity id 8837 at (544.3868533156096, 87.0, 1992.7168036822484)
+[05:33:08] [Server thread/INFO]: Loading config from file...
+[05:33:08] [Server thread/INFO]: LastSamurai joined the game
+[05:33:09] [Server thread/INFO]: LastSamurai lost connection: This server requires Cardinal Components API (unhandled packet: cardinal-components:entity_sync)
+[05:33:09] [Server thread/INFO]: LastSamurai left the game
+[05:33:09] [Server thread/INFO]: [voicechat] Disconnecting client LastSamurai
+[05:33:09] [spark-worker-pool-1-thread-1/INFO]: [⚡] Tick #7477 lasted 207.7 ms. (315.4% increase from avg)
+[05:33:09] [Server thread/WARN]: handleDisconnection() called twice
+[05:33:37] [spark-worker-pool-1-thread-2/INFO]: [⚡] Tick #8046 included GC lasting 11 ms. (type = Young Gen)
+[05:33:37] [spark-worker-pool-1-thread-4/INFO]: [⚡] Tick #8051 included GC lasting 10 ms. (type = end of concurrent GC pause)
+[05:33:37] [spark-worker-pool-1-thread-3/INFO]: [⚡] Tick #8053 included GC lasting 1 ms. (type = end of concurrent GC pause)
+[05:34:11] [spark-worker-pool-1-thread-4/INFO]: [⚡] Tick #8727 included GC lasting 13 ms. (type = Young Gen)
+[05:34:45] [spark-worker-pool-1-thread-3/INFO]: [⚡] Tick #9405 included GC lasting 12 ms. (type = Young Gen)
+[05:35:18] [spark-worker-pool-1-thread-1/INFO]: [⚡] Tick #10077 included GC lasting 11 ms. (type = Young Gen)
+[05:35:19] [spark-worker-pool-1-thread-2/INFO]: [⚡] Tick #10082 included GC lasting 11 ms. (type = end of concurrent GC pause)
+[05:35:19] [spark-worker-pool-1-thread-4/INFO]: [⚡] Tick #10085 included GC lasting 0 ms. (type = end of concurrent GC pause)
+[05:35:45] [spark-worker-pool-1-thread-3/INFO]: [⚡] Tick monitor disabled.
