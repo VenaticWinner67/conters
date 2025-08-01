@@ -341,3 +341,9 @@
 [05:41:16] [Server thread/INFO]: LastSamurai lost connection: This server requires Cardinal Components API (unhandled packet: cardinal-components:entity_sync)
 [05:41:16] [Server thread/INFO]: LastSamurai left the game
 [05:41:16] [Server thread/INFO]: [voicechat] Disconnecting client LastSamurai
+[05:49:40] [Server thread/INFO]: LastSamurai[/100.86.153.58:63493] logged in with entity id 24802 at (544.3868533156096, 87.0, 1992.7168036822484)
+[05:49:40] [Server thread/INFO]: Loading config from file...
+[05:49:40] [Server thread/INFO]: LastSamurai joined the game
+[05:49:40] [Server thread/INFO]: LastSamurai lost connection: This server requires Cardinal Components API (unhandled packet: cardinal-components:entity_sync)
+[05:49:40] [Server thread/INFO]: LastSamurai left the game
+[05:49:40] [Server thread/INFO]: [voicechat] Disconnecting client LastSamurai
