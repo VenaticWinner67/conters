@@ -368,3 +368,10 @@
 [06:35:00] [Server thread/INFO]: [VenaticWinner67: Set own game mode to Survival Mode]
 [06:35:28] [Server thread/INFO]: VenaticWinner67 has made the advancement [The Learned Piglins]
 [06:37:53] [Server thread/INFO]: Named entity class_1621['Toxic Slime'/42795, l='ServerLevel[world]', x=-873.11, y=-20.00, z=147.14] died: Toxic Slime was killed
+[06:42:36] [Server thread/INFO]: Named entity class_1621['Toxic Slime'/43413, l='ServerLevel[world]', x=-811.82, y=-20.00, z=123.01] died: Toxic Slime was killed
+[06:44:35] [Server thread/INFO]: VenaticWinner67 has made the advancement [Under Lock and Key]
+[06:46:37] [Server thread/INFO]: Named entity class_1621['Toxic Slime'/43931, l='ServerLevel[world]', x=-701.26, y=-20.00, z=160.26] died: Toxic Slime was killed
+[06:48:53] [Server thread/INFO]: VenaticWinner67 has made the advancement [Radioactive]
+[06:49:19] [Server thread/INFO]: Named entity class_1621['Toxic Slime'/44586, l='ServerLevel[world]', x=-751.46, y=48.00, z=89.93] died: Toxic Slime was slain by VenaticWinner67 using [PENE]
+[06:49:37] [Worker-Main-4/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/44880, l='ServerLevel[world]', x=-918.00, y=31.00, z=-123.00] as it would cause deadlock
+[06:49:37] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/44882, l='ServerLevel[world]', x=-918.00, y=31.00, z=-123.00] as it would cause deadlock
