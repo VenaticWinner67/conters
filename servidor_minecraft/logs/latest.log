@@ -347,3 +347,7 @@
 [05:49:40] [Server thread/INFO]: LastSamurai lost connection: This server requires Cardinal Components API (unhandled packet: cardinal-components:entity_sync)
 [05:49:40] [Server thread/INFO]: LastSamurai left the game
 [05:49:40] [Server thread/INFO]: [voicechat] Disconnecting client LastSamurai
+[06:12:52] [Server thread/INFO]: [Not Secure] <VenaticWinner67> W
+[06:13:38] [Server thread/INFO]: VenaticWinner67 has made the advancement [Incendium]
+[06:15:38] [Server thread/WARN]: VenaticWinner67 moved too quickly! 9.824506322403721,2.176759275064242,-1.3258138041028786
+[06:18:03] [Server thread/INFO]: VenaticWinner67 has made the advancement [Oh Shiny]
