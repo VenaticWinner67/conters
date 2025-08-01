@@ -375,3 +375,22 @@
 [06:49:19] [Server thread/INFO]: Named entity class_1621['Toxic Slime'/44586, l='ServerLevel[world]', x=-751.46, y=48.00, z=89.93] died: Toxic Slime was slain by VenaticWinner67 using [PENE]
 [06:49:37] [Worker-Main-4/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/44880, l='ServerLevel[world]', x=-918.00, y=31.00, z=-123.00] as it would cause deadlock
 [06:49:37] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/44882, l='ServerLevel[world]', x=-918.00, y=31.00, z=-123.00] as it would cause deadlock
+[06:50:37] [Server thread/INFO]: Named entity class_1621['Toxic Slime'/44618, l='ServerLevel[world]', x=-801.09, y=-20.00, z=120.48] died: Toxic Slime was killed
+[06:51:07] [Server thread/INFO]: VenaticWinner67 has reached the goal [Pocket Edition Alpha]
+[06:51:21] [Server thread/INFO]: Named entity class_1621['Toxic Slime'/45176, l='ServerLevel[world]', x=-837.99, y=34.71, z=148.24] died: Toxic Slime was blown up by Ghast Sentry
+[06:53:04] [Server thread/INFO]: Named entity class_1621['Toxic Slime'/45099, l='ServerLevel[world]', x=-815.22, y=-20.00, z=129.74] died: Toxic Slime was killed
+[06:53:30] [Server thread/INFO]: Named entity class_1621['Toxic Slime'/45244, l='ServerLevel[world]', x=-766.39, y=-20.00, z=150.26] died: Toxic Slime was killed
+[06:53:43] [Server thread/INFO]: Named entity class_1621['Toxic Slime'/45354, l='ServerLevel[world]', x=-765.84, y=-20.00, z=176.52] died: Toxic Slime was killed
+[06:54:32] [Server thread/INFO]: Named entity class_1571['Ghast Sentry'/42762, l='ServerLevel[world]', x=-846.93, y=57.44, z=166.36] died: Ghast Sentry was shot by VenaticWinner67 using [|HOT|]
+[06:55:18] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/45710, l='ServerLevel[world]', x=-884.75, y=-20.00, z=233.75] died: Restless Spirit was killed
+[06:56:38] [Server thread/INFO]: Named entity class_1621['Toxic Slime'/46092, l='ServerLevel[world]', x=-878.68, y=-20.00, z=87.26] died: Toxic Slime was killed
+[06:57:28] [Server thread/INFO]: Named entity class_1621['Toxic Slime'/46631, l='ServerLevel[world]', x=-866.74, y=-20.00, z=205.74] died: Toxic Slime was killed
+[06:58:35] [Server thread/INFO]: Named entity class_1621['Toxic Slime'/46946, l='ServerLevel[world]', x=-864.36, y=-20.00, z=104.93] died: Toxic Slime was killed
+[06:58:55] [Worker-Main-2/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/47468, l='ServerLevel[world]', x=-1076.00, y=31.00, z=116.00] as it would cause deadlock
+[06:58:55] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/47470, l='ServerLevel[world]', x=-1076.00, y=31.00, z=116.00] as it would cause deadlock
+[06:58:56] [Worker-Main-2/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/47479, l='ServerLevel[world]', x=-1004.00, y=31.00, z=-73.00] as it would cause deadlock
+[06:58:56] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/47481, l='ServerLevel[world]', x=-1004.00, y=31.00, z=-73.00] as it would cause deadlock
+[06:59:24] [Worker-Main-4/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/47734, l='ServerLevel[world]', x=-1029.00, y=31.00, z=-104.00] as it would cause deadlock
+[06:59:24] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/47740, l='ServerLevel[world]', x=-1029.00, y=31.00, z=-104.00] as it would cause deadlock
+[06:59:32] [Server thread/INFO]: VenaticWinner67 has made the advancement [Toxic Personality]
+[06:59:49] [Server thread/INFO]: Named entity class_1621['Toxic Slime'/47621, l='ServerLevel[world]', x=-982.76, y=48.00, z=57.65] died: Toxic Slime was slain by VenaticWinner67 using [PENE]
