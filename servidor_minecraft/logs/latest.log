@@ -335,3 +335,9 @@
 [05:35:19] [spark-worker-pool-1-thread-2/INFO]: [⚡] Tick #10082 included GC lasting 11 ms. (type = end of concurrent GC pause)
 [05:35:19] [spark-worker-pool-1-thread-4/INFO]: [⚡] Tick #10085 included GC lasting 0 ms. (type = end of concurrent GC pause)
 [05:35:45] [spark-worker-pool-1-thread-3/INFO]: [⚡] Tick monitor disabled.
+[05:41:16] [Server thread/INFO]: LastSamurai[/100.86.153.58:63363] logged in with entity id 16653 at (544.3868533156096, 87.0, 1992.7168036822484)
+[05:41:16] [Server thread/INFO]: Loading config from file...
+[05:41:16] [Server thread/INFO]: LastSamurai joined the game
+[05:41:16] [Server thread/INFO]: LastSamurai lost connection: This server requires Cardinal Components API (unhandled packet: cardinal-components:entity_sync)
+[05:41:16] [Server thread/INFO]: LastSamurai left the game
+[05:41:16] [Server thread/INFO]: [voicechat] Disconnecting client LastSamurai
