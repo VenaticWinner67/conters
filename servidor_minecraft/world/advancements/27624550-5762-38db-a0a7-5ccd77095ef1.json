@@ -4002,11 +4002,11 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "nova_structures:nether/find_hamlet": {
     "criteria": {
-      "requirement": "2025-08-01 06:29:16 +0000"
+      "nova_structures:hamlet": "2025-08-01 06:35:28 +0000"
     },
-    "done": false
+    "done": true
   },
   "incendium:root": {
     "criteria": {
@@ -4014,9 +4014,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-08-01 06:36:17 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:nether/find_piglins": {
+    "criteria": {
+      "nova_structures:hamlet": "2025-08-01 06:35:28 +0000"
+    },
+    "done": false
+  },
+  "incendium:withered_forest/root": {
+    "criteria": {
+      "requirement": "2025-08-01 06:30:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-08-01 06:36:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/distract_piglin": {
     "criteria": {
       "distract_piglin": "2025-08-01 06:18:03 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:withered_forest": "2025-08-01 06:30:47 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/quartz": {
+    "criteria": {
+      "has_quartz": "2025-08-01 06:29:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-08-01 06:36:17 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:withered_forest": "2025-08-01 06:30:47 +0000"
+    },
+    "done": false
+  },
+  "travelersbackpack:recipes/misc/pig": {
+    "criteria": {
+      "has_porkchop": "2025-08-01 06:39:08 +0000"
     },
     "done": true
   },

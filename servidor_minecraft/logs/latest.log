@@ -351,3 +351,20 @@
 [06:13:38] [Server thread/INFO]: VenaticWinner67 has made the advancement [Incendium]
 [06:15:38] [Server thread/WARN]: VenaticWinner67 moved too quickly! 9.824506322403721,2.176759275064242,-1.3258138041028786
 [06:18:03] [Server thread/INFO]: VenaticWinner67 has made the advancement [Oh Shiny]
+[06:30:47] [Server thread/INFO]: VenaticWinner67 has made the advancement [Ancient Battlefield]
+[06:30:47] [Server thread/INFO]: VenaticWinner67 has made the advancement [Strange Biomes]
+[06:31:58] [Server thread/INFO]: Named entity class_1639['Headless Warrior'/41849, l='ServerLevel[world]', x=-499.18, y=62.00, z=76.71] died: Headless Warrior was slain by VenaticWinner67 using [PENE]
+[06:32:01] [Server thread/INFO]: Named entity class_1639['Headless Warrior'/41637, l='ServerLevel[world]', x=-492.51, y=62.00, z=74.28] died: Headless Warrior was slain by VenaticWinner67 using [PENE]
+[06:32:09] [Server thread/INFO]: Named entity class_1639['Headless Warrior'/41796, l='ServerLevel[world]', x=-482.16, y=55.00, z=76.21] died: Headless Warrior was slain by VenaticWinner67 using [PENE]
+[06:32:19] [Server thread/INFO]: Named entity class_1639['Headless Warrior'/41702, l='ServerLevel[world]', x=-480.13, y=56.00, z=74.94] died: Headless Warrior was slain by VenaticWinner67 using [PENE]
+[06:32:25] [Server thread/INFO]: Named entity class_1639['Headless Warrior'/41689, l='ServerLevel[world]', x=-520.36, y=52.00, z=131.48] died: Headless Warrior was shot by Piglin
+[06:32:45] [Server thread/INFO]: Named entity class_1639['Headless Warrior'/41847, l='ServerLevel[world]', x=-507.96, y=86.00, z=166.69] died: Headless Warrior was shot by Piglin
+[06:33:45] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/41697, l='ServerLevel[world]', x=-488.09, y=-20.00, z=61.42] died: Restless Spirit was killed
+[06:34:26] [Server thread/INFO]: [VenaticWinner67: Set own game mode to Spectator Mode]
+[06:34:29] [Server thread/INFO]: Named entity class_1639['Headless Warrior'/42517, l='ServerLevel[world]', x=-491.26, y=51.00, z=170.07] died: Headless Warrior was shot by Piglin
+[06:34:44] [Server thread/WARN]: VenaticWinner67 moved too quickly! -10.679160879305414,0.0,0.19223035919863207
+[06:34:54] [Worker-Main-3/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/42638, l='ServerLevel[world]', x=-734.00, y=31.00, z=238.00] as it would cause deadlock
+[06:34:54] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/42644, l='ServerLevel[world]', x=-734.00, y=31.00, z=238.00] as it would cause deadlock
+[06:35:00] [Server thread/INFO]: [VenaticWinner67: Set own game mode to Survival Mode]
+[06:35:28] [Server thread/INFO]: VenaticWinner67 has made the advancement [The Learned Piglins]
+[06:37:53] [Server thread/INFO]: Named entity class_1621['Toxic Slime'/42795, l='ServerLevel[world]', x=-873.11, y=-20.00, z=147.14] died: Toxic Slime was killed
