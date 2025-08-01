@@ -1,11 +1,11 @@
-[04:48:35] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.17.0
-[04:48:36] [ForkJoinPool-1-worker-3/WARN]: The mod "dungeons_arise" contains invalid entries in its mod json:
+[05:19:01] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.17.0
+[05:19:01] [ForkJoinPool-1-worker-3/WARN]: The mod "dungeons_arise" contains invalid entries in its mod json:
 - Unsupported root entry "credits" at line 12 column 11
-[04:48:36] [ForkJoinPool-1-worker-2/WARN]: Mod treechop uses the version 0.19.3a which isn't compatible with Loader's extended semantic version format (Could not parse version number component '3a'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[04:48:36] [main/WARN]: Warnings were found!
+[05:19:01] [ForkJoinPool-1-worker-1/WARN]: Mod treechop uses the version 0.19.3a which isn't compatible with Loader's extended semantic version format (Could not parse version number component '3a'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[05:19:01] [main/WARN]: Warnings were found!
  - Mod 'Forge Config API Port' (forgeconfigapiport) 21.1.4 recommends any version of modmenu, which is missing!
 	 - You should install any version of modmenu for the optimal experience.
-[04:48:36] [main/INFO]: Loading 131 mods:
+[05:19:01] [main/INFO]: Loading 132 mods:
 	- almanac 1.0.2
 	- architectury 13.0.8
 	- betterendcitiesforbetterend 1.21.1-1.0.0
@@ -154,162 +154,148 @@
 	- visualworkbench 21.1.1
 	- voicechat 1.21.1-2.5.35
 	   \-- fabric-key-binding-api-v1 1.0.47+0af3f5a76a
+	- watut 1.21.0-1.2.7
 	- yungsapi 1.21.1-Fabric-5.1.6
 	   |-- org_javassist_javassist 3.29.2-GA
 	   \-- org_reflections_reflections 0.10.2
-[04:48:36] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/conters/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.16.3+mixin.0.8.7/sponge-mixin-0.16.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[04:48:36] [main/INFO]: Compatibility level set to JAVA_21
-[04:48:36] [main/WARN]: Reference map 'coroutil.refmap.json' for coroutil_fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[04:48:36] [main/WARN]: Reference map 'enchantinginfuser.common.refmap.json' for enchantinginfuser.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[04:48:36] [main/WARN]: Reference map 'enchantinginfuser.fabric.refmap.json' for enchantinginfuser.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[04:48:37] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[04:48:37] [main/WARN]: Reference map 'harvest_with_ease.refmap.json' for harvest_with_ease.mixins.json could not be read. If this is a development environment you can ignore this message
-[04:48:37] [main/WARN]: Reference map 'harvest_with_ease.refmap.json' for harvest_with_ease.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[04:48:37] [main/WARN]: Mod 'ferritecore' attempted to override option 'mixin.alloc.blockstate', which doesn't exist, ignoring
-[04:48:37] [main/INFO]: Option 'mixin.entity.collisions.fluid' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.entity.collisions.fluid=false'.
-[04:48:37] [main/INFO]: Option 'mixin.experimental.entity.block_caching.block_support' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.block_support=false'.
-[04:48:37] [main/INFO]: Option 'mixin.experimental.entity.block_caching.fluid_pushing' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.fluid_pushing=false'.
-[04:48:37] [main/INFO]: Option 'mixin.experimental.entity.block_caching.block_touching' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.block_touching=false'.
-[04:48:37] [main/INFO]: Option 'mixin.experimental.entity.block_caching.suffocation' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.suffocation=false'.
-[04:48:37] [main/INFO]: Option 'mixin.experimental.entity.block_caching' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching=false'.
-[04:48:37] [main/INFO]: Loaded configuration file for Lithium: 149 options available, 0 override(s) found
-[04:48:37] [main/INFO]: Loaded configuration file for ModernFix 5.24.3+mc1.21.1: 64 options available, 0 override(s) found
-[04:48:37] [main/INFO]: Applying Nashorn fix
-[04:48:37] [main/WARN]: Reference map 'OctoLib-COMMON-common-refmap.json' for octolib-common.mixins.json could not be read. If this is a development environment you can ignore this message
-[04:48:37] [main/WARN]: Reference map 'visualworkbench.fabric.refmap.json' for visualworkbench.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[04:48:37] [main/WARN]: Error loading class: com/electronwill/nightconfig/core/io/IoUtils (java.lang.ClassNotFoundException: com/electronwill/nightconfig/core/io/IoUtils)
-[04:48:37] [main/WARN]: Error loading class: me/jellysquid/mods/lithium/common/world/chunk/LithiumHashPalette (java.lang.ClassNotFoundException: me/jellysquid/mods/lithium/common/world/chunk/LithiumHashPalette)
-[04:48:37] [main/WARN]: Error loading class: com/simibubi/create/content/kinetics/base/BlockBreakingKineticBlockEntity (java.lang.ClassNotFoundException: com/simibubi/create/content/kinetics/base/BlockBreakingKineticBlockEntity)
-[04:48:38] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
-[04:48:41] [main/WARN]: Static binding violation: PRIVATE @Overwrite method method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
-[04:48:41] [main/WARN]: Method overwrite conflict for method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix, previously written by net.caffeinemc.mods.lithium.mixin.world.temperature_cache.BiomeMixin. Skipping method.
-[04:48:44] [main/INFO]: Vanilla bootstrap took 6115 milliseconds
-[04:48:44] [main/INFO]: Hello Fabric world!
-[04:48:45] [main/INFO]: Reflections took 37 ms to scan 1 urls, producing 1 keys and 2 values
-[04:48:45] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
-[04:48:45] [main/INFO]: Connectivity initialized
-[04:48:45] [main/INFO]: fabric loader environment detected
-[04:48:45] [main/INFO]: Loaded config for: cupboard.json
-[04:48:45] [main/INFO]: YAaargh!
-[04:48:45] [main/INFO]: Constructing common components for enchantinginfuser:main
-[04:48:45] [main/INFO]: Ksyxis: Booting... (platform: Fabric, manual: false)
-[04:48:45] [main/INFO]: Ksyxis: Found Mixin library. (version: 0.8.7)
-[04:48:45] [main/INFO]: Ksyxis: Ready. As always, this mod will speed up your world loading and might or might not break it. (1 ms)
-[04:48:45] [main/INFO]: limitedchunks mod initialized
-[04:48:45] [main/INFO]: Constructing common components for puzzleslib:main
-[04:48:45] [main/INFO]: Hello Fabric world!
-[04:48:45] [main/ERROR]: No data fixer registered for 
-[04:48:46] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 81000) with the ID 0
-[04:48:46] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 81000) with the ID 1
-[04:48:46] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for block.travelersbackpack.potion_still (Fluid Amount Required: 27000) with the ID 2
-[04:48:46] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:milk for Air (Fluid Amount Required: 81000) with the ID 3
-[04:48:46] [main/INFO]: Constructing common components for visualworkbench:main
-[04:48:46] [main/INFO]: Dispatching loading event for config visualworkbench-common.toml
-[04:48:46] [main/INFO]: [voicechat] Compatibility version 18
-[04:48:46] [main/INFO]: [voicechat] Loading plugins
-[04:48:46] [main/INFO]: [voicechat] Loaded 1 plugin(s)
-[04:48:46] [main/INFO]: [voicechat] Initializing plugins
-[04:48:46] [main/INFO]: [voicechat] Initialized 1 plugin(s)
-[04:48:46] [main/INFO]: [voicechat] Registering events for 'vcinteraction'
-[04:48:46] [main/INFO]: Reflections took 6 ms to scan 1 urls, producing 1 keys and 3 values
-[04:48:46] [main/INFO]: Reflections took 5 ms to scan 1 urls, producing 1 keys and 3 values
-[04:48:46] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[04:48:50] [main/INFO]: Loaded 1443 recipes
-[04:48:50] [main/ERROR]: Parsing error loading custom advancement dungeons_arise:find_thornborn_towers: No key id in MapLike[{"item":"minecraft:rose_bush"}]
-[04:48:50] [main/ERROR]: Parsing error loading custom advancement dungeons_arise:find_illager_corsair_or_illager_galley: No key id in MapLike[{"item":"minecraft:tropical_fish"}]
-[04:48:50] [main/ERROR]: Parsing error loading custom advancement dungeons_arise:find_keep_kayra: No key id in MapLike[{"item":"minecraft:lily_pad"}]
-[04:48:50] [main/ERROR]: Parsing error loading custom advancement dungeons_arise:find_infested_temple_map: No key id in MapLike[{"item":"minecraft:filled_map"}]
-[04:48:50] [main/ERROR]: Parsing error loading custom advancement dungeons_arise:find_greenwood_pub: No key id in MapLike[{"item":"minecraft:barrel"}]
-[04:48:50] [main/ERROR]: Couldn't load advancements: [dungeons_arise:find_plague_asylum, minecraft:wander_add_map, dungeons_arise:find_fishing_hut, minecraft:give_quest_trader_trade]
-[04:48:50] [main/INFO]: Loaded 1679 advancements
-[04:48:50] [ForkJoinPool.commonPool-worker-1/INFO]: Loaded 58 translation keys
-[04:48:50] [main/WARN]: Initial datapack load took 3.605 s
-[04:48:50] [main/INFO]: Applied 0 biome modifications to 0 of 167 new biomes in 2.986 ms
-[04:48:50] [Server thread/INFO]: Dispatching loading event for config enchantinginfuser-server.toml
-[04:48:50] [Server thread/INFO]: Starting background profiler...
-[04:48:51] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[04:48:51] [Server thread/INFO]: Loading properties
-[04:48:51] [Server thread/INFO]: Default game type: SURVIVAL
-[04:48:51] [Server thread/INFO]: Generating keypair
-[04:48:51] [Server thread/INFO]: Starting Minecraft server on *:25565
-[04:48:51] [Server thread/INFO]: Using epoll channel type
-[04:48:51] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[04:48:51] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[04:48:51] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[04:48:51] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[04:48:51] [Server thread/INFO]: Preparing level "world"
-[04:48:52] [Server thread/INFO]: Ksyxis: Hey. This is Ksyxis. We will now load the world and will try to do it quickly. If the game is not responding after this, it's probably us to blame or delete for good. This message appears always, even if the mod works flawlessly. (modern)
-[04:48:52] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[04:48:52] [Server thread/WARN]: Method overwrite conflict for removeIf in modernfix-common.mixins.json:bugfix.paper_chunk_patches.SortedArraySetMixin from mod modernfix, previously written by net.caffeinemc.mods.lithium.mixin.collections.chunk_tickets.SortedArraySetMixin. Skipping method.
-[04:48:52] [Server thread/INFO]: Time elapsed: 57 ms
-[04:48:52] [Server thread/INFO]: Done (0.734s)! For help, type "help"
-[04:48:52] [Server thread/WARN]: Dedicated server took 17.615 seconds to load
-[04:48:52] [Server thread/INFO]: Loaded config for: connectivity.json
-[04:48:52] [Server thread/INFO]: Loaded config for: smoothchunk.json
-[04:48:52] [Server thread/INFO]: Loaded config for: limitedchunks.json
-[04:48:52] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[04:48:52] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
-[04:51:26] [Server thread/INFO]: [Not Secure] [Server] ola
-[04:54:11] [Server thread/INFO]: [Not Secure] [Server] hola
-[04:55:54] [Server thread/INFO]: [STDOUT]: Lithium Cached BlockState Flags are disabled!
-[04:55:54] [Server thread/INFO]: VenaticWinner67[/100.76.188.73:59097] logged in with entity id 84 at (6.199662209115439, 49.0, -49.660437043141044)
-[04:55:54] [Server thread/INFO]: Loading config from file...
-[04:55:54] [Server thread/INFO]: [voicechat] Using Fabric Permissions API
-[04:55:54] [Server thread/INFO]: VenaticWinner67 joined the game
-[04:55:57] [Server thread/INFO]: [voicechat] Received secret request of VenaticWinner67 (18)
-[04:55:57] [Server thread/INFO]: [voicechat] Sent secret to VenaticWinner67
-[04:56:14] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 27624550-5762-38db-a0a7-5ccd77095ef1
-[04:56:28] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 27624550-5762-38db-a0a7-5ccd77095ef1
-[04:56:28] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player VenaticWinner67 (27624550-5762-38db-a0a7-5ccd77095ef1) successfully connected to voice chat
-[05:00:52] [Server thread/INFO]: Incorrect argument for command
-[05:00:52] [Server thread/INFO]: ...icWinner67 <--[HERE]
-[05:01:14] [Server thread/INFO]: Made VenaticWinner67 a server operator
-[05:02:24] [Server thread/INFO]: LastSamurai[/100.86.153.58:51864] logged in with entity id 2855 at (544.3868533156096, 87.0, 1992.7168036822484)
-[05:02:24] [Server thread/INFO]: Loading config from file...
-[05:02:24] [Server thread/INFO]: LastSamurai joined the game
-[05:02:24] [Server thread/INFO]: LastSamurai lost connection: This server requires Cardinal Components API (unhandled packet: cardinal-components:entity_sync)
-[05:02:24] [Server thread/INFO]: LastSamurai left the game
-[05:02:24] [Server thread/INFO]: [voicechat] Disconnecting client LastSamurai
-[05:02:41] [Server thread/INFO]: LastSamurai[/100.86.153.58:51865] logged in with entity id 2892 at (544.3868533156096, 87.0, 1992.7168036822484)
-[05:02:41] [Server thread/INFO]: Loading config from file...
-[05:02:41] [Server thread/INFO]: LastSamurai joined the game
-[05:02:41] [Server thread/INFO]: LastSamurai lost connection: This server requires Cardinal Components API (unhandled packet: cardinal-components:entity_sync)
-[05:02:41] [Server thread/INFO]: LastSamurai left the game
-[05:02:41] [Server thread/INFO]: [voicechat] Disconnecting client LastSamurai
-[05:02:53] [Server thread/INFO]: LastSamurai[/100.86.153.58:51873] logged in with entity id 2903 at (544.3868533156096, 87.0, 1992.7168036822484)
-[05:02:53] [Server thread/INFO]: Loading config from file...
-[05:02:53] [Server thread/INFO]: LastSamurai joined the game
-[05:02:53] [Server thread/INFO]: LastSamurai lost connection: This server requires Cardinal Components API (unhandled packet: cardinal-components:entity_sync)
-[05:02:53] [Server thread/INFO]: LastSamurai left the game
-[05:02:53] [Server thread/INFO]: [voicechat] Disconnecting client LastSamurai
-[05:03:25] [Server thread/INFO]: LastSamurai[/100.86.153.58:51874] logged in with entity id 3032 at (544.3868533156096, 87.0, 1992.7168036822484)
-[05:03:25] [Server thread/INFO]: Loading config from file...
-[05:03:25] [Server thread/INFO]: LastSamurai joined the game
-[05:03:25] [Server thread/INFO]: LastSamurai lost connection: This server requires Cardinal Components API (unhandled packet: cardinal-components:entity_sync)
-[05:03:25] [Server thread/INFO]: LastSamurai left the game
-[05:03:25] [Server thread/INFO]: [voicechat] Disconnecting client LastSamurai
-[05:04:11] [Server thread/INFO]: VenaticWinner67 lost connection: Disconnected
-[05:04:11] [Server thread/INFO]: VenaticWinner67 left the game
-[05:04:11] [Server thread/INFO]: [voicechat] Disconnecting client VenaticWinner67
-[05:04:19] [Server thread/INFO]: LastSamurai[/100.86.153.58:51884] logged in with entity id 3352 at (544.3868533156096, 87.0, 1992.7168036822484)
-[05:04:19] [Server thread/INFO]: Loading config from file...
-[05:04:19] [Server thread/INFO]: LastSamurai joined the game
-[05:04:19] [Server thread/INFO]: LastSamurai lost connection: This server requires Cardinal Components API (unhandled packet: cardinal-components:entity_sync)
-[05:04:19] [Server thread/INFO]: LastSamurai left the game
-[05:04:19] [Server thread/INFO]: [voicechat] Disconnecting client LastSamurai
-[05:04:20] [Server thread/WARN]: handleDisconnection() called twice
-[05:04:47] [Server thread/INFO]: VenaticWinner67[/100.76.188.73:59191] logged in with entity id 3410 at (10.36745179585208, 79.0, -29.809711384872834)
-[05:04:47] [Server thread/INFO]: Loading config from file...
-[05:04:47] [Server thread/INFO]: VenaticWinner67 joined the game
-[05:04:48] [Server thread/INFO]: [voicechat] Received secret request of VenaticWinner67 (18)
-[05:04:48] [Server thread/INFO]: [voicechat] Sent secret to VenaticWinner67
-[05:04:52] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 27624550-5762-38db-a0a7-5ccd77095ef1
-[05:04:54] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 27624550-5762-38db-a0a7-5ccd77095ef1
-[05:04:54] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player VenaticWinner67 (27624550-5762-38db-a0a7-5ccd77095ef1) successfully connected to voice chat
-[05:09:57] [Server thread/INFO]: LastSamurai[/100.86.153.58:51917] logged in with entity id 5918 at (544.3868533156096, 87.0, 1992.7168036822484)
-[05:09:57] [Server thread/INFO]: Loading config from file...
-[05:09:57] [Server thread/INFO]: LastSamurai joined the game
-[05:09:57] [Server thread/INFO]: LastSamurai lost connection: This server requires Cardinal Components API (unhandled packet: cardinal-components:entity_sync)
-[05:09:57] [Server thread/INFO]: LastSamurai left the game
-[05:09:57] [Server thread/INFO]: [voicechat] Disconnecting client LastSamurai
-[06:04:46] [Server thread/WARN]: VenaticWinner67 moved too quickly! 0.7274654377005838,-10.188594643186825,0.06501640095190453
+[05:19:01] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/conters/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.16.3+mixin.0.8.7/sponge-mixin-0.16.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[05:19:01] [main/INFO]: Compatibility level set to JAVA_21
+[05:19:02] [main/WARN]: Reference map 'coroutil.refmap.json' for coroutil_fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[05:19:02] [main/WARN]: Reference map 'enchantinginfuser.common.refmap.json' for enchantinginfuser.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[05:19:02] [main/WARN]: Reference map 'enchantinginfuser.fabric.refmap.json' for enchantinginfuser.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[05:19:02] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[05:19:02] [main/WARN]: Reference map 'harvest_with_ease.refmap.json' for harvest_with_ease.mixins.json could not be read. If this is a development environment you can ignore this message
+[05:19:02] [main/WARN]: Reference map 'harvest_with_ease.refmap.json' for harvest_with_ease.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[05:19:02] [main/WARN]: Mod 'ferritecore' attempted to override option 'mixin.alloc.blockstate', which doesn't exist, ignoring
+[05:19:02] [main/INFO]: Option 'mixin.entity.collisions.fluid' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.entity.collisions.fluid=false'.
+[05:19:02] [main/INFO]: Option 'mixin.experimental.entity.block_caching.block_support' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.block_support=false'.
+[05:19:02] [main/INFO]: Option 'mixin.experimental.entity.block_caching.fluid_pushing' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.fluid_pushing=false'.
+[05:19:02] [main/INFO]: Option 'mixin.experimental.entity.block_caching.block_touching' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.block_touching=false'.
+[05:19:02] [main/INFO]: Option 'mixin.experimental.entity.block_caching.suffocation' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.suffocation=false'.
+[05:19:02] [main/INFO]: Option 'mixin.experimental.entity.block_caching' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching=false'.
+[05:19:02] [main/INFO]: Loaded configuration file for Lithium: 149 options available, 0 override(s) found
+[05:19:02] [main/INFO]: Loaded configuration file for ModernFix 5.24.3+mc1.21.1: 64 options available, 0 override(s) found
+[05:19:02] [main/INFO]: Applying Nashorn fix
+[05:19:02] [main/WARN]: Reference map 'OctoLib-COMMON-common-refmap.json' for octolib-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[05:19:02] [main/WARN]: Reference map 'visualworkbench.fabric.refmap.json' for visualworkbench.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[05:19:02] [main/WARN]: Error loading class: com/electronwill/nightconfig/core/io/IoUtils (java.lang.ClassNotFoundException: com/electronwill/nightconfig/core/io/IoUtils)
+[05:19:03] [main/WARN]: Error loading class: me/jellysquid/mods/lithium/common/world/chunk/LithiumHashPalette (java.lang.ClassNotFoundException: me/jellysquid/mods/lithium/common/world/chunk/LithiumHashPalette)
+[05:19:03] [main/WARN]: Error loading class: com/simibubi/create/content/kinetics/base/BlockBreakingKineticBlockEntity (java.lang.ClassNotFoundException: com/simibubi/create/content/kinetics/base/BlockBreakingKineticBlockEntity)
+[05:19:03] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
+[05:19:06] [main/WARN]: Static binding violation: PRIVATE @Overwrite method method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[05:19:06] [main/WARN]: Method overwrite conflict for method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix, previously written by net.caffeinemc.mods.lithium.mixin.world.temperature_cache.BiomeMixin. Skipping method.
+[05:19:09] [main/INFO]: Vanilla bootstrap took 5907 milliseconds
+[05:19:10] [main/INFO]: Hello Fabric world!
+[05:19:10] [main/INFO]: Reflections took 37 ms to scan 1 urls, producing 1 keys and 2 values
+[05:19:10] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[05:19:10] [main/INFO]: Connectivity initialized
+[05:19:10] [main/INFO]: fabric loader environment detected
+[05:19:10] [main/INFO]: Loaded config for: cupboard.json
+[05:19:10] [main/INFO]: YAaargh!
+[05:19:10] [main/INFO]: Constructing common components for enchantinginfuser:main
+[05:19:10] [main/INFO]: Ksyxis: Booting... (platform: Fabric, manual: false)
+[05:19:10] [main/INFO]: Ksyxis: Found Mixin library. (version: 0.8.7)
+[05:19:10] [main/INFO]: Ksyxis: Ready. As always, this mod will speed up your world loading and might or might not break it. (1 ms)
+[05:19:10] [main/INFO]: limitedchunks mod initialized
+[05:19:10] [main/INFO]: Constructing common components for puzzleslib:main
+[05:19:10] [main/INFO]: Hello Fabric world!
+[05:19:10] [main/ERROR]: No data fixer registered for 
+[05:19:11] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 81000) with the ID 0
+[05:19:11] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 81000) with the ID 1
+[05:19:11] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for block.travelersbackpack.potion_still (Fluid Amount Required: 27000) with the ID 2
+[05:19:11] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:milk for Air (Fluid Amount Required: 81000) with the ID 3
+[05:19:11] [main/INFO]: Constructing common components for visualworkbench:main
+[05:19:11] [main/INFO]: Dispatching loading event for config visualworkbench-common.toml
+[05:19:11] [main/INFO]: [voicechat] Compatibility version 18
+[05:19:11] [main/INFO]: [voicechat] Loading plugins
+[05:19:11] [main/INFO]: [voicechat] Loaded 1 plugin(s)
+[05:19:11] [main/INFO]: [voicechat] Initializing plugins
+[05:19:11] [main/INFO]: [voicechat] Initialized 1 plugin(s)
+[05:19:11] [main/INFO]: [voicechat] Registering events for 'vcinteraction'
+[05:19:11] [main/INFO]: Reflections took 5 ms to scan 1 urls, producing 1 keys and 3 values
+[05:19:11] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 3 values
+[05:19:11] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[05:19:14] [main/INFO]: Loaded 1443 recipes
+[05:19:15] [main/ERROR]: Parsing error loading custom advancement dungeons_arise:find_thornborn_towers: No key id in MapLike[{"item":"minecraft:rose_bush"}]
+[05:19:15] [main/ERROR]: Parsing error loading custom advancement dungeons_arise:find_illager_corsair_or_illager_galley: No key id in MapLike[{"item":"minecraft:tropical_fish"}]
+[05:19:15] [main/ERROR]: Parsing error loading custom advancement dungeons_arise:find_keep_kayra: No key id in MapLike[{"item":"minecraft:lily_pad"}]
+[05:19:15] [main/ERROR]: Parsing error loading custom advancement dungeons_arise:find_infested_temple_map: No key id in MapLike[{"item":"minecraft:filled_map"}]
+[05:19:15] [main/ERROR]: Parsing error loading custom advancement dungeons_arise:find_greenwood_pub: No key id in MapLike[{"item":"minecraft:barrel"}]
+[05:19:15] [main/ERROR]: Couldn't load advancements: [dungeons_arise:find_plague_asylum, minecraft:wander_add_map, dungeons_arise:find_fishing_hut, minecraft:give_quest_trader_trade]
+[05:19:15] [main/INFO]: Loaded 1679 advancements
+[05:19:15] [ForkJoinPool.commonPool-worker-1/INFO]: Loaded 58 translation keys
+[05:19:15] [main/WARN]: Initial datapack load took 3.481 s
+[05:19:15] [main/INFO]: Applied 0 biome modifications to 0 of 167 new biomes in 2.076 ms
+[05:19:15] [Server thread/INFO]: Dispatching loading event for config enchantinginfuser-server.toml
+[05:19:15] [Server thread/INFO]: Starting background profiler...
+[05:19:16] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[05:19:16] [Server thread/INFO]: Loading properties
+[05:19:16] [Server thread/INFO]: Default game type: SURVIVAL
+[05:19:16] [Server thread/INFO]: Generating keypair
+[05:19:16] [Server thread/INFO]: Starting Minecraft server on *:25565
+[05:19:16] [Server thread/INFO]: Using epoll channel type
+[05:19:16] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[05:19:16] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[05:19:16] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[05:19:16] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[05:19:16] [Server thread/INFO]: Preparing level "world"
+[05:19:16] [Server thread/INFO]: Ksyxis: Hey. This is Ksyxis. We will now load the world and will try to do it quickly. If the game is not responding after this, it's probably us to blame or delete for good. This message appears always, even if the mod works flawlessly. (modern)
+[05:19:16] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[05:19:16] [Server thread/WARN]: Method overwrite conflict for removeIf in modernfix-common.mixins.json:bugfix.paper_chunk_patches.SortedArraySetMixin from mod modernfix, previously written by net.caffeinemc.mods.lithium.mixin.collections.chunk_tickets.SortedArraySetMixin. Skipping method.
+[05:19:16] [Server thread/INFO]: Time elapsed: 50 ms
+[05:19:16] [Server thread/INFO]: Done (0.542s)! For help, type "help"
+[05:19:16] [Server thread/WARN]: Dedicated server took 17.108 seconds to load
+[05:19:16] [Server thread/INFO]: Loaded config for: connectivity.json
+[05:19:16] [Server thread/INFO]: Loaded config for: smoothchunk.json
+[05:19:16] [Server thread/INFO]: Loaded config for: limitedchunks.json
+[05:19:16] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[05:19:16] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
+[05:19:57] [Server thread/INFO]: [Not Secure] [Server] h
+[05:20:09] [spark-worker-pool-1-thread-1/INFO]: [⚡] TPS from last 5s, 10s, 1m, 5m, 15m:
+[05:20:09] [spark-worker-pool-1-thread-1/INFO]: [⚡]  *20.0, *20.0, *20.0, *20.0, *20.0
+[05:20:09] [spark-worker-pool-1-thread-1/INFO]: [⚡] 
+[05:20:09] [spark-worker-pool-1-thread-1/INFO]: [⚡] Tick durations (min/med/95%ile/max ms) from last 10s, 1m:
+[05:20:09] [spark-worker-pool-1-thread-1/INFO]: [⚡]  0.2/0.3/0.5/2.5;  0.2/0.4/1.2/85.2
+[05:20:09] [spark-worker-pool-1-thread-1/INFO]: [⚡] 
+[05:20:09] [spark-worker-pool-1-thread-1/INFO]: [⚡] CPU usage from last 10s, 1m, 15m:
+[05:20:09] [spark-worker-pool-1-thread-1/INFO]: [⚡]  7%, 7%, 7%  (system)
+[05:20:09] [spark-worker-pool-1-thread-1/INFO]: [⚡]  0%, 2%, 2%  (process)
+[05:20:42] [Server thread/INFO]: [STDOUT]: Lithium Cached BlockState Flags are disabled!
+[05:20:42] [Server thread/INFO]: VenaticWinner67[/100.76.188.73:57113] logged in with entity id 100 at (9.36735130837899, 49.0, -62.61726686966122)
+[05:20:42] [Server thread/INFO]: Loading config from file...
+[05:20:42] [Server thread/INFO]: [voicechat] Using Fabric Permissions API
+[05:20:42] [Server thread/INFO]: VenaticWinner67 joined the game
+[05:20:46] [Server thread/INFO]: [voicechat] Received secret request of VenaticWinner67 (18)
+[05:20:46] [Server thread/INFO]: [voicechat] Sent secret to VenaticWinner67
+[05:20:57] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 27624550-5762-38db-a0a7-5ccd77095ef1
+[05:21:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 27624550-5762-38db-a0a7-5ccd77095ef1
+[05:21:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player VenaticWinner67 (27624550-5762-38db-a0a7-5ccd77095ef1) successfully connected to voice chat
+[05:21:14] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 27624550-5762-38db-a0a7-5ccd77095ef1 timed out
+[05:21:14] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player VenaticWinner67
+[05:21:14] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to VenaticWinner67
+[05:21:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 27624550-5762-38db-a0a7-5ccd77095ef1
+[05:21:25] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 27624550-5762-38db-a0a7-5ccd77095ef1
+[05:21:25] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player VenaticWinner67 (27624550-5762-38db-a0a7-5ccd77095ef1) successfully connected to voice chat
+[05:21:47] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 27624550-5762-38db-a0a7-5ccd77095ef1 timed out
+[05:21:47] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player VenaticWinner67
+[05:21:47] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to VenaticWinner67
+[05:21:49] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 27624550-5762-38db-a0a7-5ccd77095ef1
+[05:21:55] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 27624550-5762-38db-a0a7-5ccd77095ef1
+[05:21:55] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player VenaticWinner67 (27624550-5762-38db-a0a7-5ccd77095ef1) successfully connected to voice chat
+[05:22:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 27624550-5762-38db-a0a7-5ccd77095ef1 timed out
+[05:22:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player VenaticWinner67
+[05:22:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to VenaticWinner67
+[05:22:42] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 27624550-5762-38db-a0a7-5ccd77095ef1
+[05:22:43] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 27624550-5762-38db-a0a7-5ccd77095ef1
+[05:22:43] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player VenaticWinner67 (27624550-5762-38db-a0a7-5ccd77095ef1) successfully connected to voice chat
+[05:26:55] [Server thread/INFO]: [⚡] Tick monitor started. Before the monitor becomes fully active, the server's average tick rate will be calculated over a period of 120 ticks (approx 6 seconds).
+[05:27:01] [spark-worker-pool-1-thread-3/INFO]: [⚡] Analysis is now complete.
+[05:27:01] [spark-worker-pool-1-thread-3/INFO]: [⚡] > Max: 50.04ms
+[05:27:01] [spark-worker-pool-1-thread-3/INFO]: [⚡] > Min: 49.96ms
+[05:27:01] [spark-worker-pool-1-thread-3/INFO]: [⚡] > Average: 50ms
+[05:27:01] [spark-worker-pool-1-thread-3/INFO]: [⚡] Starting now, any ticks with >100.0% increase in duration compared to the average will be reported.
+[05:27:25] [spark-worker-pool-1-thread-1/INFO]: [⚡] Tick #602 included GC lasting 21 ms. (type = Young Gen)
+[05:28:00] [spark-worker-pool-1-thread-3/INFO]: [⚡] Tick #1307 included GC lasting 25 ms. (type = Young Gen)
+[05:28:32] [spark-worker-pool-1-thread-1/INFO]: [⚡] Tick #1957 included GC lasting 29 ms. (type = Young Gen)
+[05:28:33] [spark-worker-pool-1-thread-2/INFO]: [⚡] Tick #1962 included GC lasting 9 ms. (type = end of concurrent GC pause)
+[05:28:33] [spark-worker-pool-1-thread-4/INFO]: [⚡] Tick #1964 included GC lasting 0 ms. (type = end of concurrent GC pause)
